@@ -1,6 +1,6 @@
 ### Hi, I'm fizzbeom 👋
 
-QA engineer (software & kiosks) who tests open-source projects and reports security issues through coordinated disclosure.
+QA engineer & security researcher.
 
 #### Open Source Contributions
 
