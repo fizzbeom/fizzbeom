@@ -16,6 +16,7 @@ QA engineer & security researcher.
 | Appium | WebSocket upgrades are accepted without an Origin check ([GHSA-x5w7-48pf-h23p](https://github.com/appium/appium/security/advisories/GHSA-x5w7-48pf-h23p)) | Medium |
 | Appium | Unvalidated input passed to `adb shell` in appium-android-driver `mobile: changePermissions` ([GHSA-jhwq-mqcx-chhg](https://github.com/appium/appium/security/advisories/GHSA-jhwq-mqcx-chhg)) | Medium |
 | Hono | `validator()` skips validation for requests whose `Content-Type` parameters are formatted differently ([GHSA-92p4-j3wq-jmqx](https://github.com/honojs/hono/security/advisories/GHSA-92p4-j3wq-jmqx)) · co-reporter | Medium |
+| excelize | MUNIT allocates an n×n matrix sized by an untrusted number argument: memory exhaustion and panic from a ~6 KB workbook ([GHSA-3gf9-fm9h-4f37](https://github.com/qax-os/excelize/security/advisories/GHSA-3gf9-fm9h-4f37)) | Medium |
 | MikroORM | Non-string `orderBy` direction can sort by columns the application did not allow ([GHSA-v583-45x2-v9wc](https://github.com/mikro-orm/mikro-orm/security/advisories/GHSA-v583-45x2-v9wc)) | Low |
 
 <sub>Only published advisories are listed.</sub>
